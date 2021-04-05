@@ -1,5 +1,5 @@
 # Pedido API
-É uma API que realiza o CRUD básico de Pedidos, Cidades e Produtos.
+É uma API simples que utiliza os conceitos do EF Core e realiza o CRUD básico de Pedidos, Cidades e Produtos.
 
 ## Como rodar:
 
